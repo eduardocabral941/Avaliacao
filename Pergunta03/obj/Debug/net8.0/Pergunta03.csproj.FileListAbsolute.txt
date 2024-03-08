@@ -1,0 +1,14 @@
+C:\dev\C#\Curso\TargetSistemas\Pergunta03\bin\Debug\net8.0\Pergunta03.exe
+C:\dev\C#\Curso\TargetSistemas\Pergunta03\bin\Debug\net8.0\Pergunta03.deps.json
+C:\dev\C#\Curso\TargetSistemas\Pergunta03\bin\Debug\net8.0\Pergunta03.runtimeconfig.json
+C:\dev\C#\Curso\TargetSistemas\Pergunta03\bin\Debug\net8.0\Pergunta03.dll
+C:\dev\C#\Curso\TargetSistemas\Pergunta03\bin\Debug\net8.0\Pergunta03.pdb
+C:\dev\C#\Curso\TargetSistemas\Pergunta03\obj\Debug\net8.0\Pergunta03.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\C#\Curso\TargetSistemas\Pergunta03\obj\Debug\net8.0\Pergunta03.AssemblyInfoInputs.cache
+C:\dev\C#\Curso\TargetSistemas\Pergunta03\obj\Debug\net8.0\Pergunta03.AssemblyInfo.cs
+C:\dev\C#\Curso\TargetSistemas\Pergunta03\obj\Debug\net8.0\Pergunta03.csproj.CoreCompileInputs.cache
+C:\dev\C#\Curso\TargetSistemas\Pergunta03\obj\Debug\net8.0\Pergunta03.dll
+C:\dev\C#\Curso\TargetSistemas\Pergunta03\obj\Debug\net8.0\refint\Pergunta03.dll
+C:\dev\C#\Curso\TargetSistemas\Pergunta03\obj\Debug\net8.0\Pergunta03.pdb
+C:\dev\C#\Curso\TargetSistemas\Pergunta03\obj\Debug\net8.0\Pergunta03.genruntimeconfig.cache
+C:\dev\C#\Curso\TargetSistemas\Pergunta03\obj\Debug\net8.0\ref\Pergunta03.dll

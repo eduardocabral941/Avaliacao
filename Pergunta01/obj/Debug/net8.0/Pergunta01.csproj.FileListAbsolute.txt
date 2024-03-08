@@ -1,0 +1,14 @@
+C:\dev\C#\Curso\TargetSistemas\Pergunta01\bin\Debug\net8.0\Pergunta01.exe
+C:\dev\C#\Curso\TargetSistemas\Pergunta01\bin\Debug\net8.0\Pergunta01.deps.json
+C:\dev\C#\Curso\TargetSistemas\Pergunta01\bin\Debug\net8.0\Pergunta01.runtimeconfig.json
+C:\dev\C#\Curso\TargetSistemas\Pergunta01\bin\Debug\net8.0\Pergunta01.dll
+C:\dev\C#\Curso\TargetSistemas\Pergunta01\bin\Debug\net8.0\Pergunta01.pdb
+C:\dev\C#\Curso\TargetSistemas\Pergunta01\obj\Debug\net8.0\Pergunta01.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\C#\Curso\TargetSistemas\Pergunta01\obj\Debug\net8.0\Pergunta01.AssemblyInfoInputs.cache
+C:\dev\C#\Curso\TargetSistemas\Pergunta01\obj\Debug\net8.0\Pergunta01.AssemblyInfo.cs
+C:\dev\C#\Curso\TargetSistemas\Pergunta01\obj\Debug\net8.0\Pergunta01.csproj.CoreCompileInputs.cache
+C:\dev\C#\Curso\TargetSistemas\Pergunta01\obj\Debug\net8.0\Pergunta01.dll
+C:\dev\C#\Curso\TargetSistemas\Pergunta01\obj\Debug\net8.0\refint\Pergunta01.dll
+C:\dev\C#\Curso\TargetSistemas\Pergunta01\obj\Debug\net8.0\Pergunta01.pdb
+C:\dev\C#\Curso\TargetSistemas\Pergunta01\obj\Debug\net8.0\Pergunta01.genruntimeconfig.cache
+C:\dev\C#\Curso\TargetSistemas\Pergunta01\obj\Debug\net8.0\ref\Pergunta01.dll

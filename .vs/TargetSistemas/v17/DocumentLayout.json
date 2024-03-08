@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\C#\\Curso\\TargetSistemas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAAA650-7007-4E3C-AC47-EA317F38E1D8}|Pergunta02\\Pergunta02.csproj|c:\\dev\\c#\\curso\\targetsistemas\\pergunta02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEAAA650-7007-4E3C-AC47-EA317F38E1D8}|Pergunta02\\Pergunta02.csproj|solutionrelative:pergunta02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404BD41D-73E8-4A01-8464-065ED46D30A2}|Pergunta03\\Pergunta03.csproj|c:\\dev\\c#\\curso\\targetsistemas\\pergunta03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{404BD41D-73E8-4A01-8464-065ED46D30A2}|Pergunta03\\Pergunta03.csproj|solutionrelative:pergunta03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\C#\\Curso\\TargetSistemas\\Pergunta03\\Program.cs",
+              "RelativeDocumentMoniker": "Pergunta03\\Program.cs",
+              "ToolTip": "C:\\dev\\C#\\Curso\\TargetSistemas\\Pergunta03\\Program.cs",
+              "RelativeToolTip": "Pergunta03\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T22:21:08.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\C#\\Curso\\TargetSistemas\\Pergunta02\\Program.cs",
+              "RelativeDocumentMoniker": "Pergunta02\\Program.cs",
+              "ToolTip": "C:\\dev\\C#\\Curso\\TargetSistemas\\Pergunta02\\Program.cs",
+              "RelativeToolTip": "Pergunta02\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T21:26:01.803Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
